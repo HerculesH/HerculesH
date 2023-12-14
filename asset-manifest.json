@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a558f56a.css",
-    "main.js": "/static/js/main.ab966129.js",
+    "main.css": "/static/css/main.8a3dbb66.css",
+    "main.js": "/static/js/main.aa0a7f24.js",
     "static/js/787.170e9299.chunk.js": "/static/js/787.170e9299.chunk.js",
     "static/media/productCurvyLines.png": "/static/media/productCurvyLines.ff92303622d46fd7600e.png",
     "static/media/projects.webp": "/static/media/projects.0d9f96d25db38bef0570.webp",
@@ -16,12 +16,12 @@
     "static/media/developerApp.webp": "/static/media/developerApp.ce6e0ad9e7e48c10ac07.webp",
     "static/media/pic01.jpg": "/static/media/pic01.7078329c253012a02820.jpg",
     "index.html": "/index.html",
-    "main.a558f56a.css.map": "/static/css/main.a558f56a.css.map",
-    "main.ab966129.js.map": "/static/js/main.ab966129.js.map",
+    "main.8a3dbb66.css.map": "/static/css/main.8a3dbb66.css.map",
+    "main.aa0a7f24.js.map": "/static/js/main.aa0a7f24.js.map",
     "787.170e9299.chunk.js.map": "/static/js/787.170e9299.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a558f56a.css",
-    "static/js/main.ab966129.js"
+    "static/css/main.8a3dbb66.css",
+    "static/js/main.aa0a7f24.js"
   ]
 }
